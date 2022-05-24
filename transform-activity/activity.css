@@ -1,3 +1,4 @@
+/* use the Skew value to shift the image minus 10 degrees*/
 main {
-
+    transform:translateX(-220px) skewY(-5deg);
 }
